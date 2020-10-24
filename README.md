@@ -1,9 +1,8 @@
 ### Hi there, I'm Kuba 👋
 
-## I'm a future Junior iOS Developer!
-
-- 🌱 I’m currently looking for my first job 💪
-- 🥅 2020 Goals: Get a job in which I will increase my skills and work on interesting projects
+## I'm a Junior iOS Developer!
+✔✔✔ 🌱 I’m currently looking for my first job 💪
+✔✔✔ 🥅 2020 Goals: Get a job in which I will increase my skills and work on interesting projects
 
 ### Contact me:
 
