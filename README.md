@@ -2,7 +2,6 @@
 
 ## I'm a Junior iOS Developer!
 - ✔ 🌱 I’m currently working for AppUnite 💪
-- ✔ 🥅 2020 Goals: Get a job in which I will increase my skills and work on interesting projects
 
 ### Contact me:
 
