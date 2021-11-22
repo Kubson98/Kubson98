@@ -1,6 +1,6 @@
-### Hi there, I'm Kuba 👋
+### Hi there, I'm Jakub 👋
 
-## I'm a Junior iOS Developer!
+## I'm iOS Developer!
 - ✔ 🌱 I’m currently working for AppUnite 💪
 
 ### Contact me:
