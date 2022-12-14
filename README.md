@@ -1,7 +1,6 @@
 ### Hi there, I'm Jakub 👋
 
-## I'm iOS Developer!
-- ✔ 🌱 I’m currently working for AppUnite 💪
+## I'm iOS Developer at AppUnite!
 
 ### Contact me:
 
