@@ -1,6 +1,6 @@
 ### Hi there, I'm Jakub 👋
 
-## I'm iOS Developer at AppUnite!
+## I'm iOS Developer!
 
 ### Contact me:
 
